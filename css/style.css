@@ -1,0 +1,17 @@
+.navbar{
+    background-color:brown !important;
+}
+
+.carousel-inner{
+    height: 900px;
+}
+.navbar-nav{
+    display: flex;
+    gap: 30px;
+}
+
+.cardone{
+    display: flex;
+    gap: 50px;
+    justify-content: space-between;
+}
